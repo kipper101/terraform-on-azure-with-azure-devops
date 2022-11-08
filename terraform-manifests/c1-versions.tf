@@ -28,3 +28,4 @@ provider "azurerm" {
 
 
 # Comment to trigger pipelines in Azure DevOps!
+# Second comment to trigger full pipelinE
